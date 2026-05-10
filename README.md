@@ -1,4 +1,3 @@
-```md
 <h1 align="center">Hi 👋, I'm Dondon Reyes Herrera</h1>
 <h3 align="center">
 Senior Software Engineer | .NET • Azure • AI Engineering • Distributed Systems
