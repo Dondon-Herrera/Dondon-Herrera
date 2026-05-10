@@ -80,7 +80,7 @@ Building scalable backend platforms, cloud-native applications, and AI-powered s
 
 ## 💼 Professional Experience
 
-### Offshore Team — Software Engineer
+### Offshore Team — Senior Software Engineer
 📍 Makati City, Manila, Philippines (Remote)  
 📅 Apr 2023 – Jul 2024
 
@@ -90,7 +90,7 @@ Building scalable backend platforms, cloud-native applications, and AI-powered s
 
 ---
 
-### Kobkiat-IT — C# Backend Developer
+### Kobkiat-IT — Backend Engineer
 📍 Bangkok, Thailand (Remote)  
 📅 Oct 2020 – Nov 2023
 
