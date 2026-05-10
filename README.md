@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dondon Reyes Herrera</h1>
 <h3 align="center">
-Senior Software Engineer | .NET • Azure • AI Engineering • Distributed Systems
+Senior Software Engineer | .NET • Java • Azure • AI Engineering • Distributed Systems
 </h3>
 
 <p align="center">
@@ -81,7 +81,7 @@ Building scalable backend platforms, cloud-native applications, and AI-powered s
 ## 💼 Professional Experience
 
 ### Offshore Team — Software Engineer
-📍 Makati City, Manila, Philippines (Hybrid)  
+📍 Makati City, Manila, Philippines (Remote)  
 📅 Apr 2023 – Jul 2024
 
 - Architected distributed backend services using .NET Core, Node.js, Kafka, PostgreSQL, Redis, Docker, and Kubernetes.
@@ -161,13 +161,13 @@ _Web-Based Sales and Inventory Management System with Real-Time Reporting and An
 
 ### Java: Data Structures
 📅 Issued Jan 2026  
-🔗 https://www.linkedin.com/learning/certificates/8b92be211afbded85afff6092e06754882a7227fbd7187ee99ae2a2811a34555
+<a href="https://www.linkedin.com/learning/certificates/8b92be211afbded85afff6092e06754882a7227fbd7187ee99ae2a2811a34555" target="_blank"> <img src="https://img.shields.io/badge/View_Certificate-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 
 ---
 
 ### M220N: MongoDB for .NET Developers
 📅 Issued May 2021  
-🔗 https://university.mongodb.com/course_completion/de1fc953-514a-4bd1-8549-7c37759cb278
+<a href="https://university.mongodb.com/course_completion/de1fc953-514a-4bd1-8549-7c37759cb278" target="_blank"> <img src="https://img.shields.io/badge/View_Certificate-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/> </a>
 
 ---
 
@@ -210,4 +210,3 @@ I enjoy solving complex engineering challenges involving:
 - platform modernization
 
 Always learning. Always building. Always improving.
-```
